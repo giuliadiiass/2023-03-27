@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Giulia Dias",
+            "email": "giulia@dias.com",
+            "status": "inativo"
+        },
+        {
+            "id": "2",
+            "name": "Maricleuza Sirineuza",
+            "email": "mari@cleuza.com",
+            "status": "ativo"
+        }
+    ],
+    "messages": [
+        {
+            "from": "1",
+            "to": "1",
+            "text": "Não estou entendendo nada disso."
+        },
+        {
+            "id": "2",
+            "from": "2",
+            "to": "1",
+            "text": "Eu tamém num tendi nada!"
+        }
+    ]
+}
